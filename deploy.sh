@@ -17,9 +17,9 @@ git add -A
 git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io
-# git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
+git push -f git@github.com:commonSwift5/commonswift5.github.io.git main
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f https://github.com/commonSwift5/linger-ui.git main:gh-pages
+# git push -f https://github.com/commonSwift5/linger-ui.git main:gh-pages
 
 cd -
