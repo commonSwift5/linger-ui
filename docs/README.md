@@ -19,3 +19,4 @@ import 'linger-ui/dist/css/demo.css';
 import {Demo} from 'linger-ui';
 Vue.use(Demo)
 ```
+

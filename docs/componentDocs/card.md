@@ -2,7 +2,7 @@
 卡片组件
 
 ### 示例
-<zz-card imgSrc="/lingerUI/bg3.jpg" summary="123"/>
+<zz-card imgSrc="/linger-ui/bg3.jpg" summary="123"/>
 
 ### 代码
 ```html
