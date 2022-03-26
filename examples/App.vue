@@ -18,6 +18,7 @@
       </template>
     </zz-card>
     <Demo />
+    <zz-button type="primary" size="big"></zz-button>
   </div>
 </template>
 

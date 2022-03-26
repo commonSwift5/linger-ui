@@ -1,10 +1,12 @@
 // 全局配置
 import Demo from './demo'
 import Card from './card'
+import Button from './button'
 
 const components = {
   Demo,
-  Card
+  Card,
+  Button
 }
 const install = function (Vue) {
   if (install.installed) return // 避免重复安装
